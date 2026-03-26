@@ -14,9 +14,9 @@
 ### 📸 功能演示截图
 以下是电子相册Skill的实际使用效果：
 
-| 模板应用效果 | 生成相册页面 | 使用界面截图 |
+| 模板应用效果 | 生成相册页面 | 完成相册截图 |
 |--------------|--------------|--------------|
-| ![模板效果](https://github.com/zhenli26-dev/electronic-album-minimal/raw/main/templates/image.png) | ![相册页面](https://github.com/zhenli26-dev/electronic-album-minimal/raw/main/templates/page-1.png) | ![使用界面](https://github.com/zhenli26-dev/electronic-album-minimal/raw/main/templates/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-26%20175106.png) |
+| ![模板效果](https://github.com/zhenli26-dev/electronic-album-minimal/raw/main/templates/image.png) | ![相册页面](https://github.com/zhenli26-dev/electronic-album-minimal/raw/main/templates/page-1.png) | ![完成截图](https://github.com/zhenli26-dev/electronic-album-minimal/raw/main/templates/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-26%20175106.png) |
 
 ### 🏆 用户验证案例
 **实际测试结果** (用户: Yumi, 2026-03-26)
